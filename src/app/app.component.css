@@ -1,0 +1,17 @@
+body{
+    padding-left: 500px;
+    padding-right: 800px;
+    padding-bottom: 530px;
+    background-color: gold;
+    height: 100%;
+    background-size: cover;
+    overflow: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+form, div{
+    background-color: cyan;
+    color: crimson;
+}
+
